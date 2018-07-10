@@ -1,0 +1,1886 @@
+07-10 10:02:47.662 [main]  INFO com.sf.ehcache.test.TestEhcachelass.哈哈哈哈哈啊ethod\(?:?\) - 哈哈哈哈哈啊
+07-10 10:03:28.985 [main]  INFO (com.sf.ehcache.test.TestEhcachelass:哈哈哈哈哈啊ethod)\(?:?\) - 哈哈哈哈哈啊
+07-10 10:03:58.838 [main]  INFO (com.sf.ehcache.test.TestEhcachelass:哈哈哈哈哈啊ethod) - 哈哈哈哈哈啊
+07-10 10:04:34.408 [main]  INFO (?:?) - 哈哈哈哈哈啊
+07-10 10:04:55.296 [main]  INFO (?lass:?ethod) - 哈哈哈哈哈啊
+07-10 10:05:09.797 [main]  INFO (?lass:?ethod) - 哈哈哈哈哈啊
+07-10 10:06:37.064 [main]  INFO (?lass:?ethod) - 哈哈哈哈哈啊
+07-10 10:08:21.515 [main]  INFO (com.sf.ehcache.test.TestEhcache:?) - 哈哈哈哈哈啊
+07-10 10:09:48.926 [main]  INFO (com.sf.ehcache.test.TestEhcache:?) - 哈哈哈哈哈啊
+07-10 10:11:33.157 [main]  INFO (com.sf.ehcache.test.TestEhcache:?) - 哈哈哈哈哈啊
+07-10 10:12:31.630 [main]  INFO (com.sf.ehcache.test.TestEhcache:?) - 哈哈哈哈哈啊
+07-10 10:14:08.084 [main]  INFO (com.sf.ehcache.test.TestEhcache:?) - 哈哈哈哈哈啊
+2018-07-10 10:15:28,591 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:16:57,025 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:17:07,063 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:17:16,543 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:17:26,388 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:17:41,099 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:18:18,072 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:18:36,314 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:19:33,268 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:19:45,612 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:20:37,899 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:23:07,908 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:24:21,953 [INFO ] [main] [?:?] (?:?) 哈哈哈哈哈啊
+2018-07-10 10:34:53,109 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 11:06:45,460 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 11:14:14,945 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 11:21:21,238 [INFO ] [main] [?:?] (?:?) Using regular expression provided through VM argument net.sf.ehcache.pool.sizeof.ignore.pattern for IgnoreSizeOf annotation : ^.*cache\..*IgnoreSizeOf$
+2018-07-10 11:21:21,258 [INFO ] [main] [?:?] (?:?) Located valid 'tools.jar' at 'D:\DevSoft\JDK\jdk1.8.0_45\jre\..\lib\tools.jar'
+2018-07-10 11:21:21,353 [INFO ] [main] [?:?] (?:?) Detected JVM data model settings of: 64-Bit HotSpot JVM with Compressed OOPs
+2018-07-10 11:21:21,456 [INFO ] [main] [?:?] (?:?) Extracted agent jar to temporary file C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent7003278867823628891.jar
+2018-07-10 11:21:21,456 [INFO ] [main] [?:?] (?:?) Trying to load agent @ C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent7003278867823628891.jar
+2018-07-10 11:21:21,521 [INFO ] [main] [?:?] (?:?) using Agent sizeof engine
+2018-07-10 11:23:05,119 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 11:25:20,945 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 11:25:50,764 [INFO ] [main] [?:?] (?:?) Using regular expression provided through VM argument net.sf.ehcache.pool.sizeof.ignore.pattern for IgnoreSizeOf annotation : ^.*cache\..*IgnoreSizeOf$
+2018-07-10 11:25:50,785 [INFO ] [main] [?:?] (?:?) Located valid 'tools.jar' at 'D:\DevSoft\JDK\jdk1.8.0_45\jre\..\lib\tools.jar'
+2018-07-10 11:25:50,881 [INFO ] [main] [?:?] (?:?) Detected JVM data model settings of: 64-Bit HotSpot JVM with Compressed OOPs
+2018-07-10 11:25:50,947 [INFO ] [main] [?:?] (?:?) Extracted agent jar to temporary file C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent3018847136725381971.jar
+2018-07-10 11:25:50,947 [INFO ] [main] [?:?] (?:?) Trying to load agent @ C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent3018847136725381971.jar
+2018-07-10 11:25:50,982 [INFO ] [main] [?:?] (?:?) using Agent sizeof engine
+2018-07-10 13:45:52,847 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@76ccd017: startup date [Tue Jul 10 13:45:52 CST 2018]; root of context hierarchy
+2018-07-10 13:45:52,924 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:45:53,892 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:46:53,742 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@76ccd017: startup date [Tue Jul 10 13:46:53 CST 2018]; root of context hierarchy
+2018-07-10 13:46:53,813 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:47:15,030 [WARN ] [main] [?:?] (?:?) Ignored XML validation warning
+org.xml.sax.SAXParseException; lineNumber: 9; columnNumber: 82; schema_reference.4: 无法读取方案文档 'http://www.springframework.org/schema/context/spring-context-4.3.xsd', 原因为 1) 无法找到文档; 2) 无法读取文档; 3) 文档的根元素不是 <xsd:schema>。
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:203)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.warning(ErrorHandlerWrapper.java:99)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:433)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:347)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.reportSchemaErr(XSDHandler.java:4166)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.reportSchemaWarning(XSDHandler.java:4157)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.getSchemaDocument1(XSDHandler.java:2490)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.getSchemaDocument(XSDHandler.java:2187)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.parseSchema(XSDHandler.java:573)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaLoader.loadSchema(XMLSchemaLoader.java:617)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.findSchemaGrammar(XMLSchemaValidator.java:2453)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.handleStartElement(XMLSchemaValidator.java:1773)
+	at com.sun.org.apache.xerces.internal.impl.xs.XMLSchemaValidator.emptyElement(XMLSchemaValidator.java:766)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.scanStartElement(XMLNSDocumentScannerImpl.java:356)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2786)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:606)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:117)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:848)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:777)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:141)
+	at com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:243)
+	at com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:348)
+	at org.springframework.beans.factory.xml.DefaultDocumentLoader.loadDocument(DefaultDocumentLoader.java:76)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadDocument(XmlBeanDefinitionReader.java:429)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.doLoadBeanDefinitions(XmlBeanDefinitionReader.java:391)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:336)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:304)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:181)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:217)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:188)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:252)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:127)
+	at org.springframework.context.support.AbstractXmlApplicationContext.loadBeanDefinitions(AbstractXmlApplicationContext.java:93)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:129)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:537)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:452)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.sf.ehcache.start.StartUp.main(StartUp.java:13)
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:345)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:180)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.http.HttpClient.<init>(HttpClient.java:211)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:308)
+	at sun.net.www.http.HttpClient.New(HttpClient.java:326)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(HttpURLConnection.java:1168)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1104)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:998)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(HttpURLConnection.java:932)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1512)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1440)
+	at com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:646)
+	at com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:189)
+	at com.sun.org.apache.xerces.internal.impl.xs.opti.SchemaParsingConfig.parse(SchemaParsingConfig.java:582)
+	at com.sun.org.apache.xerces.internal.impl.xs.opti.SchemaParsingConfig.parse(SchemaParsingConfig.java:685)
+	at com.sun.org.apache.xerces.internal.impl.xs.opti.SchemaDOMParser.parse(SchemaDOMParser.java:530)
+	at com.sun.org.apache.xerces.internal.impl.xs.traversers.XSDHandler.getSchemaDocument(XSDHandler.java:2175)
+	... 32 more
+2018-07-10 13:47:18,844 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@76ccd017: startup date [Tue Jul 10 13:47:18 CST 2018]; root of context hierarchy
+2018-07-10 13:47:18,938 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:47:19,996 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:48:09,887 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@26f0a63f: startup date [Tue Jul 10 13:48:09 CST 2018]; root of context hierarchy
+2018-07-10 13:48:09,982 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:48:11,100 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:48:11,579 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:48:11,983 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:48:12,369 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'transactionManager': replacing [Generic bean: class [org.springframework.orm.hibernate4.HibernateTransactionManager]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [conf/spring-tx.xml]] with [Generic bean: class [org.springframework.orm.hibernate4.HibernateTransactionManager]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [conf/spring-tx.xml]]
+2018-07-10 13:48:12,371 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'txPoint': replacing [Root bean: class [org.springframework.aop.aspectj.AspectJExpressionPointcut]; scope=prototype; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [org.springframework.aop.aspectj.AspectJExpressionPointcut]; scope=prototype; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2018-07-10 13:48:12,373 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'myAdvice': replacing [Generic bean: class [org.springframework.transaction.interceptor.TransactionInterceptor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Generic bean: class [org.springframework.transaction.interceptor.TransactionInterceptor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2018-07-10 13:48:12,373 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:48:12,775 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:48:13,181 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'sessionFactory': replacing [Generic bean: class [org.springframework.orm.hibernate4.LocalSessionFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [conf/spring-hibernate.xml]] with [Generic bean: class [org.springframework.orm.hibernate4.LocalSessionFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [conf/spring-hibernate.xml]]
+2018-07-10 13:49:11,356 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@53bd815b: startup date [Tue Jul 10 13:49:11 CST 2018]; root of context hierarchy
+2018-07-10 13:49:11,442 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:49:12,510 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:49:12,972 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:49:13,393 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:49:13,806 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'transactionManager': replacing [Generic bean: class [org.springframework.orm.hibernate4.HibernateTransactionManager]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [conf/spring-tx.xml]] with [Generic bean: class [org.springframework.orm.hibernate4.HibernateTransactionManager]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [conf/spring-tx.xml]]
+2018-07-10 13:49:13,809 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'txPoint': replacing [Root bean: class [org.springframework.aop.aspectj.AspectJExpressionPointcut]; scope=prototype; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [org.springframework.aop.aspectj.AspectJExpressionPointcut]; scope=prototype; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2018-07-10 13:49:13,811 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'myAdvice': replacing [Generic bean: class [org.springframework.transaction.interceptor.TransactionInterceptor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Generic bean: class [org.springframework.transaction.interceptor.TransactionInterceptor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null]
+2018-07-10 13:49:13,811 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:49:14,220 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:49:14,628 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'sessionFactory': replacing [Generic bean: class [org.springframework.orm.hibernate4.LocalSessionFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [conf/spring-hibernate.xml]] with [Generic bean: class [org.springframework.orm.hibernate4.LocalSessionFactoryBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [conf/spring-hibernate.xml]]
+2018-07-10 13:49:14,804 [INFO ] [main] [?:?] (?:?) Loading properties file from class path resource [properties/dbconfig.properties]
+2018-07-10 13:49:14,814 [INFO ] [main] [?:?] (?:?) Loading properties file from class path resource [properties/hibernate.properties]
+2018-07-10 13:49:14,817 [INFO ] [main] [?:?] (?:?) Loading properties file from class path resource [properties/hibernate.properties]
+2018-07-10 13:49:14,907 [WARN ] [main] [?:?] (?:?) Exception encountered during context initialization - cancelling refresh attempt
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'personDao': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.hibernate.SessionFactory com.sf.ehcache.dao.PersonDao.sessionFactory; nested exception is org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [org.springframework.orm.hibernate4.HibernateTransactionManager] for bean with name 'transactionManager' defined in class path resource [conf/spring-tx.xml]; nested exception is java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.HibernateTransactionManager
+Related cause: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [org.springframework.orm.hibernate4.HibernateTransactionManager] for bean with name 'transactionManager' defined in class path resource [conf/spring-tx.xml]; nested exception is java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.HibernateTransactionManager
+Related cause: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [org.springframework.orm.hibernate4.LocalSessionFactoryBean] for bean with name 'sessionFactory' defined in class path resource [conf/spring-hibernate.xml]; nested exception is java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.LocalSessionFactoryBean
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1202)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:537)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:476)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.sf.ehcache.start.StartUp.main(StartUp.java:13)
+Caused by: org.springframework.beans.factory.BeanCreationException: Could not autowire field: private org.hibernate.SessionFactory com.sf.ehcache.dao.PersonDao.sessionFactory; nested exception is org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [org.springframework.orm.hibernate4.HibernateTransactionManager] for bean with name 'transactionManager' defined in class path resource [conf/spring-tx.xml]; nested exception is java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.HibernateTransactionManager
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:561)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:331)
+	... 13 more
+Caused by: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [org.springframework.orm.hibernate4.HibernateTransactionManager] for bean with name 'transactionManager' defined in class path resource [conf/spring-tx.xml]; nested exception is java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.HibernateTransactionManager
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1328)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:622)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:591)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:434)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:412)
+	at org.springframework.beans.factory.BeanFactoryUtils.beanNamesForTypeIncludingAncestors(BeanFactoryUtils.java:187)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1112)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1051)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:949)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:533)
+	... 15 more
+Caused by: java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.HibernateTransactionManager
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.springframework.util.ClassUtils.forName(ClassUtils.java:249)
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.resolveBeanClass(AbstractBeanDefinition.java:395)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doResolveBeanClass(AbstractBeanFactory.java:1349)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1320)
+	... 25 more
+Related cause:
+org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [org.springframework.orm.hibernate4.HibernateTransactionManager] for bean with name 'transactionManager' defined in class path resource [conf/spring-tx.xml]; nested exception is java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.HibernateTransactionManager
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1328)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:622)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:591)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:434)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:404)
+	at org.springframework.beans.factory.BeanFactoryUtils.beanNamesForTypeIncludingAncestors(BeanFactoryUtils.java:187)
+	at org.springframework.aop.framework.autoproxy.BeanFactoryAdvisorRetrievalHelper.findAdvisorBeans(BeanFactoryAdvisorRetrievalHelper.java:73)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findCandidateAdvisors(AbstractAdvisorAutoProxyCreator.java:101)
+	at org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator.shouldSkip(AspectJAwareAdvisorAutoProxyCreator.java:103)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.postProcessBeforeInstantiation(AbstractAutoProxyCreator.java:243)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInstantiation(AbstractAutowireCapableBeanFactory.java:976)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.resolveBeforeInstantiation(AbstractAutowireCapableBeanFactory.java:947)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:466)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.sf.ehcache.start.StartUp.main(StartUp.java:13)
+Caused by: java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.HibernateTransactionManager
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.springframework.util.ClassUtils.forName(ClassUtils.java:249)
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.resolveBeanClass(AbstractBeanDefinition.java:395)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doResolveBeanClass(AbstractBeanFactory.java:1349)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1320)
+	... 23 more
+Related cause:
+org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [org.springframework.orm.hibernate4.LocalSessionFactoryBean] for bean with name 'sessionFactory' defined in class path resource [conf/spring-hibernate.xml]; nested exception is java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.LocalSessionFactoryBean
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1328)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineTargetType(AbstractAutowireCapableBeanFactory.java:622)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.predictBeanType(AbstractAutowireCapableBeanFactory.java:591)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.isFactoryBean(AbstractBeanFactory.java:1397)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doGetBeanNamesForType(DefaultListableBeanFactory.java:434)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.getBeanNamesForType(DefaultListableBeanFactory.java:404)
+	at org.springframework.beans.factory.BeanFactoryUtils.beanNamesForTypeIncludingAncestors(BeanFactoryUtils.java:187)
+	at org.springframework.aop.framework.autoproxy.BeanFactoryAdvisorRetrievalHelper.findAdvisorBeans(BeanFactoryAdvisorRetrievalHelper.java:73)
+	at org.springframework.aop.framework.autoproxy.AbstractAdvisorAutoProxyCreator.findCandidateAdvisors(AbstractAdvisorAutoProxyCreator.java:101)
+	at org.springframework.aop.aspectj.autoproxy.AspectJAwareAdvisorAutoProxyCreator.shouldSkip(AspectJAwareAdvisorAutoProxyCreator.java:103)
+	at org.springframework.aop.framework.autoproxy.AbstractAutoProxyCreator.postProcessBeforeInstantiation(AbstractAutoProxyCreator.java:243)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInstantiation(AbstractAutowireCapableBeanFactory.java:976)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.resolveBeforeInstantiation(AbstractAutowireCapableBeanFactory.java:947)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:466)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:303)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:299)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:194)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:762)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:757)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:480)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:139)
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:83)
+	at com.sf.ehcache.start.StartUp.main(StartUp.java:13)
+Caused by: java.lang.ClassNotFoundException: org.springframework.orm.hibernate4.LocalSessionFactoryBean
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.springframework.util.ClassUtils.forName(ClassUtils.java:249)
+	at org.springframework.beans.factory.support.AbstractBeanDefinition.resolveBeanClass(AbstractBeanDefinition.java:395)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doResolveBeanClass(AbstractBeanFactory.java:1349)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveBeanClass(AbstractBeanFactory.java:1320)
+	... 23 more
+2018-07-10 13:51:13,442 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@39ed3c8d: startup date [Tue Jul 10 13:51:13 CST 2018]; root of context hierarchy
+2018-07-10 13:51:13,534 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:51:13,862 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:51:13,940 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:51:13,971 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:51:14,005 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:51:14,031 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:51:15,235 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 13:51:15,797 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 13:51:15,806 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 13:51:15,810 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 13:51:15,813 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 13:51:16,006 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 13:51:16,058 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 13:51:16,067 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 13:51:16,130 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 13:51:16,174 [WARN ] [main] [?:?] (?:?) Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'personDao': Unsatisfied dependency expressed through field 'sessionFactory'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'sessionFactory' defined in class path resource [conf/spring-hibernate.xml]: Invocation of init method failed; nested exception is org.hibernate.cfg.beanvalidation.IntegrationException: Error activating Bean Validation integration
+2018-07-10 13:51:16,179 [INFO ] [main] [?:?] (?:?) {dataSource-1} closed
+2018-07-10 13:52:15,762 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 13:52:15 CST 2018]; root of context hierarchy
+2018-07-10 13:52:15,880 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:52:16,215 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:52:16,316 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:52:16,353 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:52:16,407 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:52:16,462 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:52:17,796 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 13:52:18,147 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 13:52:18,158 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 13:52:18,162 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 13:52:18,164 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 13:52:18,431 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 13:52:18,491 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 13:52:18,498 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 13:52:18,564 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 13:52:19,045 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 13:52:17",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1784834205, ConnectTime:"2018-07-10 13:52:17", UseCount:0, LastActiveTime:"2018-07-10 13:52:17"},
+		{ID:1174586025, ConnectTime:"2018-07-10 13:52:17", UseCount:0, LastActiveTime:"2018-07-10 13:52:17"},
+		{ID:1627010197, ConnectTime:"2018-07-10 13:52:17", UseCount:0, LastActiveTime:"2018-07-10 13:52:17"},
+		{ID:4073506, ConnectTime:"2018-07-10 13:52:17", UseCount:0, LastActiveTime:"2018-07-10 13:52:17"},
+		{ID:2044825144, ConnectTime:"2018-07-10 13:52:17", UseCount:1, LastActiveTime:"2018-07-10 13:52:18"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 13:54:57,525 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a1d6a08: startup date [Tue Jul 10 13:54:57 CST 2018]; root of context hierarchy
+2018-07-10 13:54:57,654 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:54:58,043 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:54:58,145 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:54:58,188 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:54:58,222 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:54:58,253 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:54:59,556 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 13:55:00,167 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 13:55:00,179 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 13:55:00,182 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 13:55:00,185 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 13:55:00,461 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 13:55:00,534 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 13:55:00,542 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 13:55:00,616 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 13:55:01,243 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 13:54:58",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:277437206, ConnectTime:"2018-07-10 13:54:59", UseCount:0, LastActiveTime:"2018-07-10 13:54:59"},
+		{ID:1428469551, ConnectTime:"2018-07-10 13:54:59", UseCount:0, LastActiveTime:"2018-07-10 13:54:59"},
+		{ID:750795985, ConnectTime:"2018-07-10 13:54:59", UseCount:0, LastActiveTime:"2018-07-10 13:54:59"},
+		{ID:1310167355, ConnectTime:"2018-07-10 13:54:59", UseCount:0, LastActiveTime:"2018-07-10 13:54:59"},
+		{ID:345780740, ConnectTime:"2018-07-10 13:54:59", UseCount:1, LastActiveTime:"2018-07-10 13:55:00"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 13:56:23,036 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 13:56:23 CST 2018]; root of context hierarchy
+2018-07-10 13:56:23,133 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:56:23,451 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:56:23,527 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:56:23,558 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:56:23,592 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:56:23,657 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:56:24,742 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 13:56:25,313 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 13:56:25,323 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 13:56:25,327 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 13:56:25,328 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 13:56:25,524 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 13:56:25,585 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 13:56:25,593 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 13:56:25,653 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 13:56:26,129 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 13:56:24",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1877986974, ConnectTime:"2018-07-10 13:56:24", UseCount:0, LastActiveTime:"2018-07-10 13:56:24"},
+		{ID:1334405552, ConnectTime:"2018-07-10 13:56:24", UseCount:0, LastActiveTime:"2018-07-10 13:56:24"},
+		{ID:467632528, ConnectTime:"2018-07-10 13:56:24", UseCount:0, LastActiveTime:"2018-07-10 13:56:24"},
+		{ID:422522663, ConnectTime:"2018-07-10 13:56:24", UseCount:0, LastActiveTime:"2018-07-10 13:56:24"},
+		{ID:145066402, ConnectTime:"2018-07-10 13:56:24", UseCount:1, LastActiveTime:"2018-07-10 13:56:25"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 13:57:47,576 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 13:57:47 CST 2018]; root of context hierarchy
+2018-07-10 13:57:47,674 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:57:47,996 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:57:48,076 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:57:48,110 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:57:48,147 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:57:48,180 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:57:49,239 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 13:57:49,819 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 13:57:49,830 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 13:57:49,834 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 13:57:49,836 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 13:57:50,039 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 13:57:50,102 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 13:57:50,107 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 13:57:50,176 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 13:57:50,658 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 13:57:48",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1877986974, ConnectTime:"2018-07-10 13:57:49", UseCount:0, LastActiveTime:"2018-07-10 13:57:49"},
+		{ID:1334405552, ConnectTime:"2018-07-10 13:57:49", UseCount:0, LastActiveTime:"2018-07-10 13:57:49"},
+		{ID:467632528, ConnectTime:"2018-07-10 13:57:49", UseCount:0, LastActiveTime:"2018-07-10 13:57:49"},
+		{ID:422522663, ConnectTime:"2018-07-10 13:57:49", UseCount:0, LastActiveTime:"2018-07-10 13:57:49"},
+		{ID:145066402, ConnectTime:"2018-07-10 13:57:49", UseCount:1, LastActiveTime:"2018-07-10 13:57:50"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 13:58:34,065 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a1d6a08: startup date [Tue Jul 10 13:58:34 CST 2018]; root of context hierarchy
+2018-07-10 13:58:34,171 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:58:34,522 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:58:34,621 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:58:34,662 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:58:34,711 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:58:34,782 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:58:36,061 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 13:58:36,699 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 13:58:36,709 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 13:58:36,712 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 13:58:36,716 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 13:58:36,971 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 13:58:37,042 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 13:58:37,048 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 13:58:37,122 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 13:58:37,697 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 13:58:35",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1428469551, ConnectTime:"2018-07-10 13:58:36", UseCount:0, LastActiveTime:"2018-07-10 13:58:36"},
+		{ID:750795985, ConnectTime:"2018-07-10 13:58:36", UseCount:0, LastActiveTime:"2018-07-10 13:58:36"},
+		{ID:1310167355, ConnectTime:"2018-07-10 13:58:36", UseCount:0, LastActiveTime:"2018-07-10 13:58:36"},
+		{ID:345780740, ConnectTime:"2018-07-10 13:58:36", UseCount:0, LastActiveTime:"2018-07-10 13:58:36"},
+		{ID:1693540983, ConnectTime:"2018-07-10 13:58:36", UseCount:1, LastActiveTime:"2018-07-10 13:58:36"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 13:59:37,581 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 13:59:37 CST 2018]; root of context hierarchy
+2018-07-10 13:59:37,676 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 13:59:38,033 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:59:38,112 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 13:59:38,146 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 13:59:38,186 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:59:38,217 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 13:59:39,282 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 13:59:39,885 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 13:59:39,892 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 13:59:39,895 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 13:59:39,898 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 13:59:40,110 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 13:59:40,173 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 13:59:40,179 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 13:59:40,242 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 13:59:40,747 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 13:59:38",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1877986974, ConnectTime:"2018-07-10 13:59:39", UseCount:0, LastActiveTime:"2018-07-10 13:59:39"},
+		{ID:1334405552, ConnectTime:"2018-07-10 13:59:39", UseCount:0, LastActiveTime:"2018-07-10 13:59:39"},
+		{ID:467632528, ConnectTime:"2018-07-10 13:59:39", UseCount:0, LastActiveTime:"2018-07-10 13:59:39"},
+		{ID:422522663, ConnectTime:"2018-07-10 13:59:39", UseCount:0, LastActiveTime:"2018-07-10 13:59:39"},
+		{ID:145066402, ConnectTime:"2018-07-10 13:59:39", UseCount:1, LastActiveTime:"2018-07-10 13:59:40"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:00:02,238 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:00:02 CST 2018]; root of context hierarchy
+2018-07-10 14:00:02,339 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:00:02,646 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:00:02,732 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:00:02,764 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:00:02,800 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:00:02,827 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:00:03,857 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:00:04,402 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:00:04,409 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:00:04,411 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:00:04,413 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:00:04,594 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:00:04,653 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:00:04,658 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:00:04,725 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:00:05,242 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:00:03",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1877986974, ConnectTime:"2018-07-10 14:00:03", UseCount:0, LastActiveTime:"2018-07-10 14:00:03"},
+		{ID:1334405552, ConnectTime:"2018-07-10 14:00:03", UseCount:0, LastActiveTime:"2018-07-10 14:00:03"},
+		{ID:467632528, ConnectTime:"2018-07-10 14:00:03", UseCount:0, LastActiveTime:"2018-07-10 14:00:03"},
+		{ID:422522663, ConnectTime:"2018-07-10 14:00:03", UseCount:0, LastActiveTime:"2018-07-10 14:00:03"},
+		{ID:145066402, ConnectTime:"2018-07-10 14:00:03", UseCount:1, LastActiveTime:"2018-07-10 14:00:04"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:01:03,452 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:01:03 CST 2018]; root of context hierarchy
+2018-07-10 14:01:03,558 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:01:03,864 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:01:03,961 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:01:03,993 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:01:04,027 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:01:04,066 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:01:05,082 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:01:05,604 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:01:05,613 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:01:05,617 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:01:05,619 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:01:05,812 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:01:05,875 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:01:05,882 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:01:05,949 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:01:06,504 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:01:04",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1877986974, ConnectTime:"2018-07-10 14:01:05", UseCount:0, LastActiveTime:"2018-07-10 14:01:05"},
+		{ID:1334405552, ConnectTime:"2018-07-10 14:01:05", UseCount:0, LastActiveTime:"2018-07-10 14:01:05"},
+		{ID:467632528, ConnectTime:"2018-07-10 14:01:05", UseCount:0, LastActiveTime:"2018-07-10 14:01:05"},
+		{ID:422522663, ConnectTime:"2018-07-10 14:01:05", UseCount:0, LastActiveTime:"2018-07-10 14:01:05"},
+		{ID:145066402, ConnectTime:"2018-07-10 14:01:05", UseCount:1, LastActiveTime:"2018-07-10 14:01:05"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:02:37,856 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:02:37 CST 2018]; root of context hierarchy
+2018-07-10 14:02:37,952 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:02:38,273 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:02:38,379 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:02:38,410 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:02:38,444 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:02:38,475 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:02:38,500 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:02:39,791 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:02:40,233 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:02:40,242 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:02:40,246 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:02:40,248 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:02:40,521 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:02:40,736 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:02:40,745 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:02:40,813 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:02:41,730 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:02:39",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:45643137, ConnectTime:"2018-07-10 14:02:39", UseCount:0, LastActiveTime:"2018-07-10 14:02:39"},
+		{ID:1715686600, ConnectTime:"2018-07-10 14:02:39", UseCount:0, LastActiveTime:"2018-07-10 14:02:39"},
+		{ID:1123166613, ConnectTime:"2018-07-10 14:02:39", UseCount:0, LastActiveTime:"2018-07-10 14:02:39"},
+		{ID:1765690649, ConnectTime:"2018-07-10 14:02:39", UseCount:0, LastActiveTime:"2018-07-10 14:02:39"},
+		{ID:678115778, ConnectTime:"2018-07-10 14:02:39", UseCount:1, LastActiveTime:"2018-07-10 14:02:40"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:03:16,390 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:03:16 CST 2018]; root of context hierarchy
+2018-07-10 14:03:16,478 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:03:16,801 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:03:16,886 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:03:16,919 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:03:16,959 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:03:16,987 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:03:17,012 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:03:18,256 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:03:18,703 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:03:18,712 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:03:18,716 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:03:18,718 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:03:18,927 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:03:19,088 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:03:19,095 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:03:19,161 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:03:20,003 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:03:17",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:45643137, ConnectTime:"2018-07-10 14:03:18", UseCount:0, LastActiveTime:"2018-07-10 14:03:18"},
+		{ID:1715686600, ConnectTime:"2018-07-10 14:03:18", UseCount:0, LastActiveTime:"2018-07-10 14:03:18"},
+		{ID:1123166613, ConnectTime:"2018-07-10 14:03:18", UseCount:0, LastActiveTime:"2018-07-10 14:03:18"},
+		{ID:1765690649, ConnectTime:"2018-07-10 14:03:18", UseCount:0, LastActiveTime:"2018-07-10 14:03:18"},
+		{ID:678115778, ConnectTime:"2018-07-10 14:03:18", UseCount:1, LastActiveTime:"2018-07-10 14:03:18"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:03:20,192 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:04:08,072 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:04:08 CST 2018]; root of context hierarchy
+2018-07-10 14:04:08,154 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:04:08,460 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:04:08,539 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:04:08,614 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:04:08,679 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:04:08,703 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:04:08,732 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:04:09,945 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:04:10,391 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:04:10,399 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:04:10,403 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:04:10,405 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:04:10,599 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:04:10,765 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:04:10,771 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:04:10,830 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:04:11,732 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:04:09",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:45643137, ConnectTime:"2018-07-10 14:04:09", UseCount:0, LastActiveTime:"2018-07-10 14:04:09"},
+		{ID:1715686600, ConnectTime:"2018-07-10 14:04:09", UseCount:0, LastActiveTime:"2018-07-10 14:04:09"},
+		{ID:1123166613, ConnectTime:"2018-07-10 14:04:09", UseCount:0, LastActiveTime:"2018-07-10 14:04:09"},
+		{ID:1765690649, ConnectTime:"2018-07-10 14:04:09", UseCount:0, LastActiveTime:"2018-07-10 14:04:09"},
+		{ID:678115778, ConnectTime:"2018-07-10 14:04:09", UseCount:1, LastActiveTime:"2018-07-10 14:04:10"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:04:11,928 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:04:33,178 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:04:33 CST 2018]; root of context hierarchy
+2018-07-10 14:04:33,274 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:04:33,624 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:04:33,718 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:04:33,782 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:04:33,825 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:04:33,848 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:04:33,874 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:04:35,235 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:04:35,682 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:04:35,693 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:04:35,697 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:04:35,700 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:04:35,974 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:04:36,144 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:04:36,153 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:04:36,224 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:04:37,174 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:04:34",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:45643137, ConnectTime:"2018-07-10 14:04:35", UseCount:0, LastActiveTime:"2018-07-10 14:04:35"},
+		{ID:1715686600, ConnectTime:"2018-07-10 14:04:35", UseCount:0, LastActiveTime:"2018-07-10 14:04:35"},
+		{ID:1123166613, ConnectTime:"2018-07-10 14:04:35", UseCount:0, LastActiveTime:"2018-07-10 14:04:35"},
+		{ID:1765690649, ConnectTime:"2018-07-10 14:04:35", UseCount:0, LastActiveTime:"2018-07-10 14:04:35"},
+		{ID:678115778, ConnectTime:"2018-07-10 14:04:35", UseCount:1, LastActiveTime:"2018-07-10 14:04:35"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:04:37,352 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:05:14,645 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:05:14 CST 2018]; root of context hierarchy
+2018-07-10 14:05:14,751 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:05:15,082 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:05:15,187 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:05:15,264 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:05:15,322 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:05:15,349 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:05:15,376 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:05:16,698 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:05:17,130 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:05:17,139 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:05:17,143 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:05:17,145 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:05:17,385 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:05:17,536 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:05:17,541 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:05:17,603 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:05:18,540 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:05:16",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:45643137, ConnectTime:"2018-07-10 14:05:16", UseCount:0, LastActiveTime:"2018-07-10 14:05:16"},
+		{ID:1715686600, ConnectTime:"2018-07-10 14:05:16", UseCount:0, LastActiveTime:"2018-07-10 14:05:16"},
+		{ID:1123166613, ConnectTime:"2018-07-10 14:05:16", UseCount:0, LastActiveTime:"2018-07-10 14:05:16"},
+		{ID:1765690649, ConnectTime:"2018-07-10 14:05:16", UseCount:0, LastActiveTime:"2018-07-10 14:05:16"},
+		{ID:678115778, ConnectTime:"2018-07-10 14:05:16", UseCount:1, LastActiveTime:"2018-07-10 14:05:17"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:05:18,740 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:07:27,116 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:07:27 CST 2018]; root of context hierarchy
+2018-07-10 14:07:27,201 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:07:27,542 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:07:27,625 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:07:27,654 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:07:27,687 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:07:27,714 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:07:27,741 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:07:28,992 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:07:29,489 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:07:29,498 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:07:29,501 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:07:29,504 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:07:29,727 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:07:29,938 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:07:29,946 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:07:30,043 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:07:30,975 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:07:28",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1360878852, ConnectTime:"2018-07-10 14:07:28", UseCount:0, LastActiveTime:"2018-07-10 14:07:28"},
+		{ID:1747721875, ConnectTime:"2018-07-10 14:07:28", UseCount:0, LastActiveTime:"2018-07-10 14:07:28"},
+		{ID:654740048, ConnectTime:"2018-07-10 14:07:28", UseCount:0, LastActiveTime:"2018-07-10 14:07:28"},
+		{ID:1759915172, ConnectTime:"2018-07-10 14:07:28", UseCount:0, LastActiveTime:"2018-07-10 14:07:28"},
+		{ID:1395173825, ConnectTime:"2018-07-10 14:07:28", UseCount:1, LastActiveTime:"2018-07-10 14:07:29"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:07:31,016 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:08:07,946 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:08:07 CST 2018]; root of context hierarchy
+2018-07-10 14:08:08,032 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:08:08,369 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:08:08,456 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:08:08,491 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:08:08,581 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:08:08,604 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:08:08,626 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:08:08,923 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:08:10,201 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:08:10,507 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:08:10,518 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:08:10,522 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:08:10,525 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:08:10,782 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:08:10,990 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:08:10,996 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:08:11,068 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:08:11,932 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:08:09",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:734971558, ConnectTime:"2018-07-10 14:08:10", UseCount:0, LastActiveTime:"2018-07-10 14:08:10"},
+		{ID:2007138812, ConnectTime:"2018-07-10 14:08:10", UseCount:0, LastActiveTime:"2018-07-10 14:08:10"},
+		{ID:1225970981, ConnectTime:"2018-07-10 14:08:10", UseCount:0, LastActiveTime:"2018-07-10 14:08:10"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:08:10", UseCount:0, LastActiveTime:"2018-07-10 14:08:10"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:08:10", UseCount:1, LastActiveTime:"2018-07-10 14:08:10"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:08:12,007 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:09:22,929 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:09:22 CST 2018]; root of context hierarchy
+2018-07-10 14:09:23,017 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:09:23,357 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:09:23,432 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:09:23,468 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:09:23,511 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:09:23,535 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:09:23,558 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:09:23,828 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:09:25,028 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:09:25,423 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:09:25,433 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:09:25,437 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:09:25,441 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:09:25,714 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:09:25,921 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:09:25,929 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:09:26,010 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:09:26,879 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:09:24",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:734971558, ConnectTime:"2018-07-10 14:09:24", UseCount:0, LastActiveTime:"2018-07-10 14:09:24"},
+		{ID:2007138812, ConnectTime:"2018-07-10 14:09:24", UseCount:0, LastActiveTime:"2018-07-10 14:09:24"},
+		{ID:1225970981, ConnectTime:"2018-07-10 14:09:24", UseCount:0, LastActiveTime:"2018-07-10 14:09:24"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:09:25", UseCount:0, LastActiveTime:"2018-07-10 14:09:25"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:09:25", UseCount:1, LastActiveTime:"2018-07-10 14:09:25"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:09:26,957 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:09:39,192 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:09:39 CST 2018]; root of context hierarchy
+2018-07-10 14:09:39,282 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:09:39,609 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:09:39,687 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:09:39,720 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:09:39,756 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:09:39,782 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:09:39,811 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:09:40,047 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:09:41,249 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:09:41,572 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:09:41,584 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:09:41,587 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:09:41,589 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:09:41,844 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:09:42,050 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:09:42,059 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:09:42,161 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:09:43,134 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:09:40",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:734971558, ConnectTime:"2018-07-10 14:09:41", UseCount:0, LastActiveTime:"2018-07-10 14:09:41"},
+		{ID:2007138812, ConnectTime:"2018-07-10 14:09:41", UseCount:0, LastActiveTime:"2018-07-10 14:09:41"},
+		{ID:1225970981, ConnectTime:"2018-07-10 14:09:41", UseCount:0, LastActiveTime:"2018-07-10 14:09:41"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:09:41", UseCount:0, LastActiveTime:"2018-07-10 14:09:41"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:09:41", UseCount:1, LastActiveTime:"2018-07-10 14:09:41"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:09:43,245 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:28:09,319 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:28:09 CST 2018]; root of context hierarchy
+2018-07-10 14:28:09,421 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:28:09,789 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:28:09,905 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:28:09,942 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:28:10,003 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:28:10,034 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:28:10,070 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:28:10,381 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:28:11,638 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:28:12,005 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:28:12,015 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:28:12,018 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:28:12,020 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:28:12,291 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:28:12,480 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:28:12,486 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:28:12,584 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:28:13,457 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:28:10",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:734971558, ConnectTime:"2018-07-10 14:28:11", UseCount:0, LastActiveTime:"2018-07-10 14:28:11"},
+		{ID:2007138812, ConnectTime:"2018-07-10 14:28:11", UseCount:0, LastActiveTime:"2018-07-10 14:28:11"},
+		{ID:1225970981, ConnectTime:"2018-07-10 14:28:11", UseCount:0, LastActiveTime:"2018-07-10 14:28:11"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:28:11", UseCount:0, LastActiveTime:"2018-07-10 14:28:11"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:28:11", UseCount:1, LastActiveTime:"2018-07-10 14:28:12"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:28:13,564 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:28:48,712 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:28:48 CST 2018]; root of context hierarchy
+2018-07-10 14:28:48,799 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:28:49,119 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:28:49,194 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:28:49,224 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:28:49,260 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:28:49,286 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:28:49,311 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:28:49,525 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:28:50,721 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:28:51,062 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:28:51,071 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:28:51,074 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:28:51,077 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:28:51,305 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:28:51,490 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:28:51,498 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:28:51,591 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:28:52,652 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:28:50",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:734971558, ConnectTime:"2018-07-10 14:28:50", UseCount:0, LastActiveTime:"2018-07-10 14:28:50"},
+		{ID:2007138812, ConnectTime:"2018-07-10 14:28:50", UseCount:0, LastActiveTime:"2018-07-10 14:28:50"},
+		{ID:1225970981, ConnectTime:"2018-07-10 14:28:50", UseCount:0, LastActiveTime:"2018-07-10 14:28:50"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:28:50", UseCount:0, LastActiveTime:"2018-07-10 14:28:50"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:28:50", UseCount:1, LastActiveTime:"2018-07-10 14:28:51"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:28:52,749 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:29:49,227 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:29:49 CST 2018]; root of context hierarchy
+2018-07-10 14:29:49,325 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:29:49,625 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:29:49,720 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:29:49,757 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:29:49,792 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:29:49,819 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:29:49,843 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:29:50,060 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:29:51,272 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:29:51,628 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:29:51,635 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:29:51,638 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:29:51,640 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:29:51,875 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:29:52,061 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:29:52,068 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:29:52,158 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:29:53,080 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:29:50",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:734971558, ConnectTime:"2018-07-10 14:29:51", UseCount:0, LastActiveTime:"2018-07-10 14:29:51"},
+		{ID:2007138812, ConnectTime:"2018-07-10 14:29:51", UseCount:0, LastActiveTime:"2018-07-10 14:29:51"},
+		{ID:1225970981, ConnectTime:"2018-07-10 14:29:51", UseCount:0, LastActiveTime:"2018-07-10 14:29:51"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:29:51", UseCount:0, LastActiveTime:"2018-07-10 14:29:51"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:29:51", UseCount:1, LastActiveTime:"2018-07-10 14:29:51"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:29:53,167 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:30:48,386 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:30:48 CST 2018]; root of context hierarchy
+2018-07-10 14:30:48,482 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:30:48,808 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:30:48,896 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:30:48,927 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:30:48,956 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:30:48,981 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:30:49,007 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:30:49,242 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:30:50,460 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:30:50,773 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:30:50,780 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:30:50,783 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:30:50,786 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:30:51,032 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:30:51,232 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:30:51,240 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:30:51,339 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:30:52,232 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:30:49",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:734971558, ConnectTime:"2018-07-10 14:30:50", UseCount:0, LastActiveTime:"2018-07-10 14:30:50"},
+		{ID:2007138812, ConnectTime:"2018-07-10 14:30:50", UseCount:0, LastActiveTime:"2018-07-10 14:30:50"},
+		{ID:1225970981, ConnectTime:"2018-07-10 14:30:50", UseCount:0, LastActiveTime:"2018-07-10 14:30:50"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:30:50", UseCount:0, LastActiveTime:"2018-07-10 14:30:50"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:30:50", UseCount:1, LastActiveTime:"2018-07-10 14:30:51"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:30:52,307 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:31:22,062 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:31:22 CST 2018]; root of context hierarchy
+2018-07-10 14:31:22,167 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:31:22,488 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:31:22,565 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:31:22,598 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:31:22,629 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:31:22,653 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:31:22,686 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:31:22,923 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:31:24,113 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:31:24,438 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:31:24,448 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:31:24,451 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:31:24,454 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:31:24,743 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:31:24,978 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:31:24,990 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:31:25,098 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:31:26,152 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:31:23",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1449987177, ConnectTime:"2018-07-10 14:31:24", UseCount:0, LastActiveTime:"2018-07-10 14:31:24"},
+		{ID:948650013, ConnectTime:"2018-07-10 14:31:24", UseCount:0, LastActiveTime:"2018-07-10 14:31:24"},
+		{ID:734971558, ConnectTime:"2018-07-10 14:31:24", UseCount:0, LastActiveTime:"2018-07-10 14:31:24"},
+		{ID:2007138812, ConnectTime:"2018-07-10 14:31:24", UseCount:0, LastActiveTime:"2018-07-10 14:31:24"},
+		{ID:1225970981, ConnectTime:"2018-07-10 14:31:24", UseCount:1, LastActiveTime:"2018-07-10 14:31:24"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:31:26,246 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:32:06,502 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a1d6a08: startup date [Tue Jul 10 14:32:06 CST 2018]; root of context hierarchy
+2018-07-10 14:32:06,669 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:32:07,354 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:32:07,653 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:32:07,848 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:32:08,066 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:32:08,255 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:32:08,447 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:32:09,157 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:32:13,080 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:32:15,352 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:32:15,380 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:32:15,390 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:32:15,396 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:32:16,078 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:32:16,634 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:32:16,657 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:32:16,890 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:32:19,567 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:32:10",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1167068004, ConnectTime:"2018-07-10 14:32:12", UseCount:0, LastActiveTime:"2018-07-10 14:32:12"},
+		{ID:254416915, ConnectTime:"2018-07-10 14:32:12", UseCount:0, LastActiveTime:"2018-07-10 14:32:12"},
+		{ID:2046364218, ConnectTime:"2018-07-10 14:32:12", UseCount:0, LastActiveTime:"2018-07-10 14:32:12"},
+		{ID:582857168, ConnectTime:"2018-07-10 14:32:13", UseCount:0, LastActiveTime:"2018-07-10 14:32:13"},
+		{ID:1739806152, ConnectTime:"2018-07-10 14:32:13", UseCount:1, LastActiveTime:"2018-07-10 14:32:16"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:32:19,983 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:34:54,416 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:34:54 CST 2018]; root of context hierarchy
+2018-07-10 14:34:54,511 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:34:54,831 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:34:54,925 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:34:54,966 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:34:55,000 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:34:55,028 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:34:55,060 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:34:55,341 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:34:56,693 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:34:57,211 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:34:57,224 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:34:57,228 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:34:57,232 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:34:57,573 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:34:57,794 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:34:57,800 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:34:57,882 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:34:59,102 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:34:55",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1225970981, ConnectTime:"2018-07-10 14:34:56", UseCount:0, LastActiveTime:"2018-07-10 14:34:56"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:34:56", UseCount:0, LastActiveTime:"2018-07-10 14:34:56"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:34:56", UseCount:0, LastActiveTime:"2018-07-10 14:34:56"},
+		{ID:353580491, ConnectTime:"2018-07-10 14:34:56", UseCount:0, LastActiveTime:"2018-07-10 14:34:56"},
+		{ID:1249337777, ConnectTime:"2018-07-10 14:34:56", UseCount:1, LastActiveTime:"2018-07-10 14:34:57"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:34:59,175 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:39:32,135 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:39:32 CST 2018]; root of context hierarchy
+2018-07-10 14:39:32,227 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:39:32,563 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:39:32,654 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:39:32,694 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:39:32,762 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:39:32,801 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:39:32,827 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:39:33,071 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:39:34,348 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:39:34,697 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:39:34,710 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:39:34,713 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:39:34,717 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:39:35,047 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:39:35,332 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:39:35,340 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:39:35,418 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:39:36,533 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:39:33",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1225970981, ConnectTime:"2018-07-10 14:39:34", UseCount:0, LastActiveTime:"2018-07-10 14:39:34"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:39:34", UseCount:0, LastActiveTime:"2018-07-10 14:39:34"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:39:34", UseCount:0, LastActiveTime:"2018-07-10 14:39:34"},
+		{ID:353580491, ConnectTime:"2018-07-10 14:39:34", UseCount:0, LastActiveTime:"2018-07-10 14:39:34"},
+		{ID:1249337777, ConnectTime:"2018-07-10 14:39:34", UseCount:1, LastActiveTime:"2018-07-10 14:39:35"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:39:36,632 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:40:36,195 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:40:36 CST 2018]; root of context hierarchy
+2018-07-10 14:40:36,319 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:40:36,625 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:40:36,706 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:40:36,740 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:40:36,775 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:40:36,802 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:40:36,835 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:40:37,102 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:40:38,411 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:40:38,799 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:40:38,808 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:40:38,811 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:40:38,814 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:40:39,138 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:40:39,418 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:40:39,427 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:40:39,544 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:40:40,503 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:40:37",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1225970981, ConnectTime:"2018-07-10 14:40:38", UseCount:0, LastActiveTime:"2018-07-10 14:40:38"},
+		{ID:737935282, ConnectTime:"2018-07-10 14:40:38", UseCount:0, LastActiveTime:"2018-07-10 14:40:38"},
+		{ID:1985869725, ConnectTime:"2018-07-10 14:40:38", UseCount:0, LastActiveTime:"2018-07-10 14:40:38"},
+		{ID:353580491, ConnectTime:"2018-07-10 14:40:38", UseCount:0, LastActiveTime:"2018-07-10 14:40:38"},
+		{ID:1249337777, ConnectTime:"2018-07-10 14:40:38", UseCount:1, LastActiveTime:"2018-07-10 14:40:39"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:40:40,594 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:44:36,117 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:44:36 CST 2018]; root of context hierarchy
+2018-07-10 14:44:36,222 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:44:36,562 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:44:36,651 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:44:36,692 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:44:36,742 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:44:36,774 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:44:36,809 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:44:37,092 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:44:38,390 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:44:38,721 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:44:38,729 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:44:38,733 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:44:38,736 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:44:38,950 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:44:39,113 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:44:39,119 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:44:39,195 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:44:40,088 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:44:37",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:670951536, ConnectTime:"2018-07-10 14:44:38", UseCount:0, LastActiveTime:"2018-07-10 14:44:38"},
+		{ID:726416425, ConnectTime:"2018-07-10 14:44:38", UseCount:0, LastActiveTime:"2018-07-10 14:44:38"},
+		{ID:1523034648, ConnectTime:"2018-07-10 14:44:38", UseCount:0, LastActiveTime:"2018-07-10 14:44:38"},
+		{ID:1289563251, ConnectTime:"2018-07-10 14:44:38", UseCount:0, LastActiveTime:"2018-07-10 14:44:38"},
+		{ID:78377968, ConnectTime:"2018-07-10 14:44:38", UseCount:1, LastActiveTime:"2018-07-10 14:44:38"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:44:40,182 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:46:14,691 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a1d6a08: startup date [Tue Jul 10 14:46:14 CST 2018]; root of context hierarchy
+2018-07-10 14:46:14,796 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:46:15,163 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:46:15,256 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:46:15,291 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:46:15,329 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:46:15,370 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:46:15,398 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:46:15,658 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:46:17,080 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:46:17,388 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:46:17,398 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:46:17,402 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:46:17,405 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:46:17,639 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:46:17,869 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:46:17,877 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:46:17,979 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:46:19,170 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:46:16",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:917190676, ConnectTime:"2018-07-10 14:46:17", UseCount:0, LastActiveTime:"2018-07-10 14:46:17"},
+		{ID:716951769, ConnectTime:"2018-07-10 14:46:17", UseCount:0, LastActiveTime:"2018-07-10 14:46:17"},
+		{ID:190967225, ConnectTime:"2018-07-10 14:46:17", UseCount:0, LastActiveTime:"2018-07-10 14:46:17"},
+		{ID:1564473433, ConnectTime:"2018-07-10 14:46:17", UseCount:0, LastActiveTime:"2018-07-10 14:46:17"},
+		{ID:851116146, ConnectTime:"2018-07-10 14:46:17", UseCount:1, LastActiveTime:"2018-07-10 14:46:17"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:46:19,304 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:47:03,945 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a1d6a08: startup date [Tue Jul 10 14:47:03 CST 2018]; root of context hierarchy
+2018-07-10 14:47:04,047 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:47:04,407 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:47:04,489 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:47:04,531 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:47:04,572 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:47:04,599 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:47:04,625 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:47:04,884 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:47:06,272 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:47:06,595 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:47:06,605 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:47:06,608 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:47:06,610 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:47:06,831 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:47:07,039 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:47:07,048 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:47:07,150 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:47:08,234 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:47:05",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1573719263, ConnectTime:"2018-07-10 14:47:06", UseCount:0, LastActiveTime:"2018-07-10 14:47:06"},
+		{ID:1336953458, ConnectTime:"2018-07-10 14:47:06", UseCount:0, LastActiveTime:"2018-07-10 14:47:06"},
+		{ID:31956291, ConnectTime:"2018-07-10 14:47:06", UseCount:0, LastActiveTime:"2018-07-10 14:47:06"},
+		{ID:876487258, ConnectTime:"2018-07-10 14:47:06", UseCount:0, LastActiveTime:"2018-07-10 14:47:06"},
+		{ID:27294710, ConnectTime:"2018-07-10 14:47:06", UseCount:1, LastActiveTime:"2018-07-10 14:47:06"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:47:08,343 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:49:42,651 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1a1d6a08: startup date [Tue Jul 10 14:49:42 CST 2018]; root of context hierarchy
+2018-07-10 14:49:42,765 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:49:43,135 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:49:43,217 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:49:43,258 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:49:43,295 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:49:43,329 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:49:43,373 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:49:43,812 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 14:49:45,363 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:49:45,674 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:49:45,683 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:49:45,685 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:49:45,687 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:49:45,910 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:49:46,105 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:49:46,116 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:49:46,233 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:49:47,470 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:49:44",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:184017782, ConnectTime:"2018-07-10 14:49:45", UseCount:0, LastActiveTime:"2018-07-10 14:49:45"},
+		{ID:1573719263, ConnectTime:"2018-07-10 14:49:45", UseCount:0, LastActiveTime:"2018-07-10 14:49:45"},
+		{ID:1336953458, ConnectTime:"2018-07-10 14:49:45", UseCount:0, LastActiveTime:"2018-07-10 14:49:45"},
+		{ID:31956291, ConnectTime:"2018-07-10 14:49:45", UseCount:0, LastActiveTime:"2018-07-10 14:49:45"},
+		{ID:876487258, ConnectTime:"2018-07-10 14:49:45", UseCount:1, LastActiveTime:"2018-07-10 14:49:45"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:49:47,602 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:50:54,245 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:50:54 CST 2018]; root of context hierarchy
+2018-07-10 14:50:54,335 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:50:54,642 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:50:54,713 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:50:54,749 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:50:54,782 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:50:54,810 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:50:54,840 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:50:56,122 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:50:56,578 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:50:56,587 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:50:56,591 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:50:56,594 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:50:56,828 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:50:57,008 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:50:57,014 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:50:57,078 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:50:57,975 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:50:55",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:118881143, ConnectTime:"2018-07-10 14:50:56", UseCount:0, LastActiveTime:"2018-07-10 14:50:56"},
+		{ID:463215441, ConnectTime:"2018-07-10 14:50:56", UseCount:0, LastActiveTime:"2018-07-10 14:50:56"},
+		{ID:777190206, ConnectTime:"2018-07-10 14:50:56", UseCount:0, LastActiveTime:"2018-07-10 14:50:56"},
+		{ID:385784873, ConnectTime:"2018-07-10 14:50:56", UseCount:0, LastActiveTime:"2018-07-10 14:50:56"},
+		{ID:1050149826, ConnectTime:"2018-07-10 14:50:56", UseCount:1, LastActiveTime:"2018-07-10 14:50:56"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:50:58,019 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 14:51:15,129 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 14:51:15 CST 2018]; root of context hierarchy
+2018-07-10 14:51:15,221 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 14:51:15,584 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:51:15,652 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 14:51:15,685 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 14:51:15,718 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:51:15,745 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 14:51:15,780 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 14:51:16,984 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 14:51:17,380 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 14:51:17,390 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 14:51:17,394 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 14:51:17,396 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 14:51:17,623 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 14:51:17,772 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 14:51:17,777 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 14:51:17,843 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 14:51:18,755 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 14:51:16",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:777190206, ConnectTime:"2018-07-10 14:51:16", UseCount:0, LastActiveTime:"2018-07-10 14:51:16"},
+		{ID:385784873, ConnectTime:"2018-07-10 14:51:16", UseCount:0, LastActiveTime:"2018-07-10 14:51:16"},
+		{ID:1050149826, ConnectTime:"2018-07-10 14:51:16", UseCount:0, LastActiveTime:"2018-07-10 14:51:16"},
+		{ID:1160106451, ConnectTime:"2018-07-10 14:51:16", UseCount:0, LastActiveTime:"2018-07-10 14:51:16"},
+		{ID:2090289474, ConnectTime:"2018-07-10 14:51:16", UseCount:1, LastActiveTime:"2018-07-10 14:51:17"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 14:51:18,802 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 15:05:21,924 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:05:21 CST 2018]; root of context hierarchy
+2018-07-10 15:05:22,027 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:05:22,335 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:05:22,410 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:05:22,445 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:05:22,480 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:05:22,504 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:05:24,045 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:05:24,375 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:05:24,384 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:05:24,387 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:05:24,389 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:05:24,593 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:05:24,749 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:05:24,755 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:05:24,832 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:05:25,859 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:05:23",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1142735456, ConnectTime:"2018-07-10 15:05:23", UseCount:0, LastActiveTime:"2018-07-10 15:05:23"},
+		{ID:1939869193, ConnectTime:"2018-07-10 15:05:24", UseCount:0, LastActiveTime:"2018-07-10 15:05:24"},
+		{ID:652007616, ConnectTime:"2018-07-10 15:05:24", UseCount:0, LastActiveTime:"2018-07-10 15:05:24"},
+		{ID:1726515679, ConnectTime:"2018-07-10 15:05:24", UseCount:0, LastActiveTime:"2018-07-10 15:05:24"},
+		{ID:1145391264, ConnectTime:"2018-07-10 15:05:24", UseCount:1, LastActiveTime:"2018-07-10 15:05:24"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:07:54,911 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:07:54 CST 2018]; root of context hierarchy
+2018-07-10 15:07:55,008 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:07:55,345 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:07:55,451 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:07:55,486 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:07:55,528 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:07:55,554 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:07:57,309 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:07:57,680 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:07:57,691 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:07:57,694 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:07:57,697 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:07:57,901 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:07:58,082 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:07:58,089 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:07:58,160 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:07:59,125 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:07:56",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1438178266, ConnectTime:"2018-07-10 15:07:57", UseCount:0, LastActiveTime:"2018-07-10 15:07:57"},
+		{ID:995531141, ConnectTime:"2018-07-10 15:07:57", UseCount:0, LastActiveTime:"2018-07-10 15:07:57"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:07:57", UseCount:0, LastActiveTime:"2018-07-10 15:07:57"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:07:57", UseCount:0, LastActiveTime:"2018-07-10 15:07:57"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:07:57", UseCount:1, LastActiveTime:"2018-07-10 15:07:57"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:09:04,770 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:09:04 CST 2018]; root of context hierarchy
+2018-07-10 15:09:04,858 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:09:05,198 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:09:05,290 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:09:05,325 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:09:05,368 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:09:05,395 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:09:06,909 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:09:07,282 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:09:07,293 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:09:07,296 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:09:07,298 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:09:07,552 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:09:07,741 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:09:07,747 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:09:07,824 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:09:08,809 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:09:06",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1438178266, ConnectTime:"2018-07-10 15:09:06", UseCount:0, LastActiveTime:"2018-07-10 15:09:06"},
+		{ID:995531141, ConnectTime:"2018-07-10 15:09:06", UseCount:0, LastActiveTime:"2018-07-10 15:09:06"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:09:06", UseCount:0, LastActiveTime:"2018-07-10 15:09:06"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:09:06", UseCount:0, LastActiveTime:"2018-07-10 15:09:06"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:09:06", UseCount:1, LastActiveTime:"2018-07-10 15:09:07"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:09:18,032 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:09:18 CST 2018]; root of context hierarchy
+2018-07-10 15:09:18,128 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:09:18,481 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:09:18,564 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:09:18,595 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:09:18,641 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:09:18,673 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:09:20,202 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:09:20,492 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:09:20,500 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:09:20,503 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:09:20,505 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:09:20,722 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:09:20,887 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:09:20,896 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:09:20,974 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:09:21,927 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:09:19",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:1145391264, ConnectTime:"2018-07-10 15:09:20", UseCount:0, LastActiveTime:"2018-07-10 15:09:20"},
+		{ID:929482343, ConnectTime:"2018-07-10 15:09:20", UseCount:0, LastActiveTime:"2018-07-10 15:09:20"},
+		{ID:2000421523, ConnectTime:"2018-07-10 15:09:20", UseCount:0, LastActiveTime:"2018-07-10 15:09:20"},
+		{ID:1438178266, ConnectTime:"2018-07-10 15:09:20", UseCount:0, LastActiveTime:"2018-07-10 15:09:20"},
+		{ID:995531141, ConnectTime:"2018-07-10 15:09:20", UseCount:1, LastActiveTime:"2018-07-10 15:09:20"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:14:08,701 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:14:08 CST 2018]; root of context hierarchy
+2018-07-10 15:14:08,779 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:14:09,107 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:14:09,230 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:14:09,263 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:14:09,298 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:14:09,324 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:14:09,350 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 15:14:09,619 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 15:14:09,623 [INFO ] [main] [?:?] (?:?) Skipping bean definition for [BeanMethod:name=cacheManager,declaringClass=com.sf.ehcache.config.CacheConfig]: a definition for bean 'cacheManager' already exists. This top-level bean definition is considered as an override.
+2018-07-10 15:14:11,005 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:14:11,351 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:14:11,361 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:14:11,365 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:14:11,368 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:14:11,596 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:14:11,800 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:14:11,807 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:14:11,888 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:14:12,907 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:14:10",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:939391749, ConnectTime:"2018-07-10 15:14:10", UseCount:0, LastActiveTime:"2018-07-10 15:14:10"},
+		{ID:98801744, ConnectTime:"2018-07-10 15:14:10", UseCount:0, LastActiveTime:"2018-07-10 15:14:10"},
+		{ID:369351727, ConnectTime:"2018-07-10 15:14:10", UseCount:0, LastActiveTime:"2018-07-10 15:14:10"},
+		{ID:964981922, ConnectTime:"2018-07-10 15:14:10", UseCount:0, LastActiveTime:"2018-07-10 15:14:10"},
+		{ID:1635358020, ConnectTime:"2018-07-10 15:14:10", UseCount:1, LastActiveTime:"2018-07-10 15:14:11"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:14:13,000 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 15:14:22,193 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:14:22 CST 2018]; root of context hierarchy
+2018-07-10 15:14:22,295 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:14:22,664 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:14:22,760 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:14:22,798 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:14:22,835 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:14:22,873 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:14:22,902 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-ehcache.xml]
+2018-07-10 15:14:23,158 [INFO ] [main] [?:?] (?:?) Overriding bean definition for bean 'org.springframework.cache.config.internalCacheAdvisor' with a different definition: replacing [Root bean: class [org.springframework.cache.interceptor.BeanFactoryCacheOperationSourceAdvisor]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.cache.annotation.ProxyCachingConfiguration; factoryMethodName=cacheAdvisor; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/cache/annotation/ProxyCachingConfiguration.class]]
+2018-07-10 15:14:23,161 [INFO ] [main] [?:?] (?:?) Skipping bean definition for [BeanMethod:name=cacheManager,declaringClass=com.sf.ehcache.config.CacheConfig]: a definition for bean 'cacheManager' already exists. This top-level bean definition is considered as an override.
+2018-07-10 15:14:24,449 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:14:24,744 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:14:24,756 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:14:24,759 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:14:24,761 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:14:24,985 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:14:25,176 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:14:25,184 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:14:25,266 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:14:26,190 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:14:23",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:939391749, ConnectTime:"2018-07-10 15:14:24", UseCount:0, LastActiveTime:"2018-07-10 15:14:24"},
+		{ID:98801744, ConnectTime:"2018-07-10 15:14:24", UseCount:0, LastActiveTime:"2018-07-10 15:14:24"},
+		{ID:369351727, ConnectTime:"2018-07-10 15:14:24", UseCount:0, LastActiveTime:"2018-07-10 15:14:24"},
+		{ID:964981922, ConnectTime:"2018-07-10 15:14:24", UseCount:0, LastActiveTime:"2018-07-10 15:14:24"},
+		{ID:1635358020, ConnectTime:"2018-07-10 15:14:24", UseCount:1, LastActiveTime:"2018-07-10 15:14:25"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:14:26,278 [INFO ] [main] [?:?] (?:?) Initializing EhCache CacheManager
+2018-07-10 15:14:26,989 [INFO ] [main] [?:?] (?:?) Closing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:14:22 CST 2018]; root of context hierarchy
+2018-07-10 15:14:26,991 [INFO ] [main] [?:?] (?:?) Shutting down EhCache CacheManager
+2018-07-10 15:14:27,115 [INFO ] [main] [?:?] (?:?) {dataSource-1} closed
+2018-07-10 15:21:04,510 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:21:04 CST 2018]; root of context hierarchy
+2018-07-10 15:21:04,596 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:21:04,937 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:21:05,033 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:21:05,070 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:21:05,105 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:21:05,132 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:21:06,617 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:21:06,948 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:21:06,960 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:21:06,965 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:21:06,969 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:21:07,182 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:21:07,367 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:21:07,374 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:21:07,465 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:21:08,398 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:21:05",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:995531141, ConnectTime:"2018-07-10 15:21:06", UseCount:0, LastActiveTime:"2018-07-10 15:21:06"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:21:06", UseCount:0, LastActiveTime:"2018-07-10 15:21:06"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:21:06", UseCount:0, LastActiveTime:"2018-07-10 15:21:06"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:21:06", UseCount:0, LastActiveTime:"2018-07-10 15:21:06"},
+		{ID:836621476, ConnectTime:"2018-07-10 15:21:06", UseCount:1, LastActiveTime:"2018-07-10 15:21:07"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:21:08,757 [WARN ] [main] [?:?] (?:?) Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.sf.ehcache.config.CacheConfig: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is net.sf.ehcache.ObjectExistsException: Cache helloworld already exists
+2018-07-10 15:21:08,763 [INFO ] [main] [?:?] (?:?) {dataSource-1} closed
+2018-07-10 15:21:53,352 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:21:53 CST 2018]; root of context hierarchy
+2018-07-10 15:21:53,452 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:21:53,788 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:21:53,885 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:21:53,922 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:21:53,955 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:21:53,982 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:21:55,555 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:21:55,868 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:21:55,879 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:21:55,883 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:21:55,886 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:21:56,100 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:21:56,275 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:21:56,281 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:21:56,359 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:21:57,310 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:21:54",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:995531141, ConnectTime:"2018-07-10 15:21:55", UseCount:0, LastActiveTime:"2018-07-10 15:21:55"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:21:55", UseCount:0, LastActiveTime:"2018-07-10 15:21:55"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:21:55", UseCount:0, LastActiveTime:"2018-07-10 15:21:55"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:21:55", UseCount:0, LastActiveTime:"2018-07-10 15:21:55"},
+		{ID:836621476, ConnectTime:"2018-07-10 15:21:55", UseCount:1, LastActiveTime:"2018-07-10 15:21:56"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:21:57,648 [WARN ] [main] [?:?] (?:?) Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.sf.ehcache.config.CacheConfig: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is net.sf.ehcache.ObjectExistsException: Cache helloworld already exists
+2018-07-10 15:21:57,655 [INFO ] [main] [?:?] (?:?) {dataSource-1} closed
+2018-07-10 15:22:18,804 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:22:18 CST 2018]; root of context hierarchy
+2018-07-10 15:22:18,907 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:22:19,246 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:22:19,321 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:22:19,353 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:22:19,387 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:22:19,428 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:22:20,958 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:22:21,334 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:22:21,343 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:22:21,347 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:22:21,350 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:22:21,571 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:22:21,776 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:22:21,787 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:22:21,888 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:22:22,917 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:22:20",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:995531141, ConnectTime:"2018-07-10 15:22:20", UseCount:0, LastActiveTime:"2018-07-10 15:22:20"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:22:20", UseCount:0, LastActiveTime:"2018-07-10 15:22:20"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:22:20", UseCount:0, LastActiveTime:"2018-07-10 15:22:20"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:22:20", UseCount:0, LastActiveTime:"2018-07-10 15:22:20"},
+		{ID:836621476, ConnectTime:"2018-07-10 15:22:20", UseCount:1, LastActiveTime:"2018-07-10 15:22:21"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:22:23,380 [INFO ] [main] [?:?] (?:?) Using regular expression provided through VM argument net.sf.ehcache.pool.sizeof.ignore.pattern for IgnoreSizeOf annotation : ^.*cache\..*IgnoreSizeOf$
+2018-07-10 15:22:23,402 [INFO ] [main] [?:?] (?:?) Detected JVM data model settings of: 64-Bit HotSpot JVM with Compressed OOPs
+2018-07-10 15:22:23,537 [INFO ] [main] [?:?] (?:?) Extracted agent jar to temporary file C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent1907183509204571264.jar
+2018-07-10 15:22:23,537 [INFO ] [main] [?:?] (?:?) Trying to load agent @ C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent1907183509204571264.jar
+2018-07-10 15:22:23,620 [INFO ] [main] [?:?] (?:?) using Agent sizeof engine
+2018-07-10 15:22:24,131 [INFO ] [main] [?:?] (?:?) Closing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:22:18 CST 2018]; root of context hierarchy
+2018-07-10 15:22:24,144 [INFO ] [main] [?:?] (?:?) {dataSource-1} closed
+2018-07-10 15:22:40,902 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:22:40 CST 2018]; root of context hierarchy
+2018-07-10 15:22:40,996 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:22:41,366 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:22:41,467 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:22:41,508 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:22:41,551 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:22:41,577 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:22:43,147 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:22:43,514 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:22:43,527 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:22:43,532 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:22:43,538 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:22:43,752 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:22:43,940 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:22:43,949 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:22:44,039 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:22:45,046 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:22:42",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:995531141, ConnectTime:"2018-07-10 15:22:43", UseCount:0, LastActiveTime:"2018-07-10 15:22:43"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:22:43", UseCount:0, LastActiveTime:"2018-07-10 15:22:43"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:22:43", UseCount:0, LastActiveTime:"2018-07-10 15:22:43"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:22:43", UseCount:0, LastActiveTime:"2018-07-10 15:22:43"},
+		{ID:836621476, ConnectTime:"2018-07-10 15:22:43", UseCount:1, LastActiveTime:"2018-07-10 15:22:43"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:22:45,429 [WARN ] [main] [?:?] (?:?) Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.sf.ehcache.config.CacheConfig: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is net.sf.ehcache.ObjectExistsException: Cache helloworld already exists
+2018-07-10 15:22:45,435 [INFO ] [main] [?:?] (?:?) {dataSource-1} closed
+2018-07-10 15:23:20,566 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:23:20 CST 2018]; root of context hierarchy
+2018-07-10 15:23:20,678 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:23:21,049 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:23:21,135 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:23:21,194 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:23:21,236 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:23:21,296 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:23:23,060 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:23:23,433 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:23:23,443 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:23:23,446 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:23:23,449 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:23:23,704 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:23:23,925 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:23:23,935 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:23:24,036 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:23:25,307 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:23:22",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:995531141, ConnectTime:"2018-07-10 15:23:23", UseCount:0, LastActiveTime:"2018-07-10 15:23:23"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:23:23", UseCount:0, LastActiveTime:"2018-07-10 15:23:23"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:23:23", UseCount:0, LastActiveTime:"2018-07-10 15:23:23"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:23:23", UseCount:0, LastActiveTime:"2018-07-10 15:23:23"},
+		{ID:836621476, ConnectTime:"2018-07-10 15:23:23", UseCount:1, LastActiveTime:"2018-07-10 15:23:23"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:23:25,935 [WARN ] [main] [?:?] (?:?) Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cacheManager' defined in com.sf.ehcache.config.CacheConfig: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.cache.CacheManager]: Factory method 'cacheManager' threw exception; nested exception is net.sf.ehcache.ObjectExistsException: Cache helloworld already exists
+2018-07-10 15:23:25,942 [INFO ] [main] [?:?] (?:?) {dataSource-1} closed
+2018-07-10 15:24:06,186 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:24:06 CST 2018]; root of context hierarchy
+2018-07-10 15:24:06,288 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:24:06,644 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:24:06,740 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:24:06,817 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:24:06,889 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:24:06,913 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:24:08,499 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:24:08,853 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:24:08,864 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:24:08,867 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:24:08,869 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:24:09,090 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:24:09,265 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:24:09,271 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:24:09,353 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:24:10,432 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:24:07",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:995531141, ConnectTime:"2018-07-10 15:24:08", UseCount:0, LastActiveTime:"2018-07-10 15:24:08"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:24:08", UseCount:0, LastActiveTime:"2018-07-10 15:24:08"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:24:08", UseCount:0, LastActiveTime:"2018-07-10 15:24:08"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:24:08", UseCount:0, LastActiveTime:"2018-07-10 15:24:08"},
+		{ID:836621476, ConnectTime:"2018-07-10 15:24:08", UseCount:1, LastActiveTime:"2018-07-10 15:24:09"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:24:10,600 [WARN ] [main] [?:?] (?:?) No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/D:/DevSoft/apache-maven-3.3.9/repository/net/sf/ehcache/ehcache/2.10.2/ehcache-2.10.2.jar!/ehcache-failsafe.xml
+2018-07-10 15:24:10,855 [INFO ] [main] [?:?] (?:?) Using regular expression provided through VM argument net.sf.ehcache.pool.sizeof.ignore.pattern for IgnoreSizeOf annotation : ^.*cache\..*IgnoreSizeOf$
+2018-07-10 15:24:10,882 [INFO ] [main] [?:?] (?:?) Detected JVM data model settings of: 64-Bit HotSpot JVM with Compressed OOPs
+2018-07-10 15:24:10,973 [INFO ] [main] [?:?] (?:?) Extracted agent jar to temporary file C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent6052276447510265677.jar
+2018-07-10 15:24:10,973 [INFO ] [main] [?:?] (?:?) Trying to load agent @ C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent6052276447510265677.jar
+2018-07-10 15:24:11,003 [INFO ] [main] [?:?] (?:?) using Agent sizeof engine
+2018-07-10 15:24:38,581 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:24:38 CST 2018]; root of context hierarchy
+2018-07-10 15:24:38,694 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:24:39,092 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:24:39,214 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:24:39,275 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:24:39,345 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:24:39,369 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:24:41,010 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:24:41,325 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:24:41,334 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:24:41,336 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:24:41,339 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:24:41,538 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:24:41,737 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:24:41,749 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:24:41,822 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:24:42,912 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:24:40",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:995531141, ConnectTime:"2018-07-10 15:24:40", UseCount:0, LastActiveTime:"2018-07-10 15:24:40"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:24:40", UseCount:0, LastActiveTime:"2018-07-10 15:24:40"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:24:40", UseCount:0, LastActiveTime:"2018-07-10 15:24:40"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:24:40", UseCount:0, LastActiveTime:"2018-07-10 15:24:40"},
+		{ID:836621476, ConnectTime:"2018-07-10 15:24:40", UseCount:1, LastActiveTime:"2018-07-10 15:24:41"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:24:43,029 [WARN ] [main] [?:?] (?:?) No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/D:/DevSoft/apache-maven-3.3.9/repository/net/sf/ehcache/ehcache/2.10.2/ehcache-2.10.2.jar!/ehcache-failsafe.xml
+2018-07-10 15:24:43,283 [INFO ] [main] [?:?] (?:?) Using regular expression provided through VM argument net.sf.ehcache.pool.sizeof.ignore.pattern for IgnoreSizeOf annotation : ^.*cache\..*IgnoreSizeOf$
+2018-07-10 15:24:43,308 [INFO ] [main] [?:?] (?:?) Detected JVM data model settings of: 64-Bit HotSpot JVM with Compressed OOPs
+2018-07-10 15:24:43,387 [INFO ] [main] [?:?] (?:?) Extracted agent jar to temporary file C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent1456131128872312899.jar
+2018-07-10 15:24:43,387 [INFO ] [main] [?:?] (?:?) Trying to load agent @ C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent1456131128872312899.jar
+2018-07-10 15:24:43,431 [INFO ] [main] [?:?] (?:?) using Agent sizeof engine
+2018-07-10 15:24:44,194 [INFO ] [main] [?:?] (?:?) Closing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:24:38 CST 2018]; root of context hierarchy
+2018-07-10 15:24:44,205 [INFO ] [main] [?:?] (?:?) {dataSource-1} closed
+2018-07-10 15:25:49,221 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 15:26:04,394 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 15:26:29,849 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 15:26:43,568 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 15:37:42,690 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 15:39:55,278 [WARN ] [main] [?:?] (?:?) No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/D:/DevSoft/apache-maven-3.3.9/repository/net/sf/ehcache/ehcache/2.10.2/ehcache-2.10.2.jar!/ehcache-failsafe.xml
+2018-07-10 15:39:55,815 [INFO ] [main] [?:?] (?:?) Using regular expression provided through VM argument net.sf.ehcache.pool.sizeof.ignore.pattern for IgnoreSizeOf annotation : ^.*cache\..*IgnoreSizeOf$
+2018-07-10 15:39:55,928 [INFO ] [main] [?:?] (?:?) Detected JVM data model settings of: 64-Bit HotSpot JVM with Compressed OOPs
+2018-07-10 15:39:55,999 [INFO ] [main] [?:?] (?:?) Extracted agent jar to temporary file C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent9032102995789500798.jar
+2018-07-10 15:39:55,999 [INFO ] [main] [?:?] (?:?) Trying to load agent @ C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent9032102995789500798.jar
+2018-07-10 15:39:56,029 [INFO ] [main] [?:?] (?:?) using Agent sizeof engine
+2018-07-10 15:41:37,072 [INFO ] [main] [?:?] (?:?) Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:41:37 CST 2018]; root of context hierarchy
+2018-07-10 15:41:37,176 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-beans.xml]
+2018-07-10 15:41:37,499 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:41:37,621 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-jdbc.xml]
+2018-07-10 15:41:37,659 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-tx.xml]
+2018-07-10 15:41:37,698 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:41:37,719 [INFO ] [main] [?:?] (?:?) Loading XML bean definitions from class path resource [conf/spring-hibernate.xml]
+2018-07-10 15:41:39,296 [INFO ] [main] [?:?] (?:?) {dataSource-1} inited
+2018-07-10 15:41:39,659 [INFO ] [main] [?:?] (?:?) HCANN000001: Hibernate Commons Annotations {4.0.5.Final}
+2018-07-10 15:41:39,670 [INFO ] [main] [?:?] (?:?) HHH000412: Hibernate Core {4.3.7.Final}
+2018-07-10 15:41:39,674 [INFO ] [main] [?:?] (?:?) HHH000206: hibernate.properties not found
+2018-07-10 15:41:39,678 [INFO ] [main] [?:?] (?:?) HHH000021: Bytecode provider name : javassist
+2018-07-10 15:41:39,873 [INFO ] [main] [?:?] (?:?) HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2018-07-10 15:41:40,048 [INFO ] [main] [?:?] (?:?) HHH000399: Using default transaction strategy (direct JDBC transactions)
+2018-07-10 15:41:40,055 [INFO ] [main] [?:?] (?:?) HHH000397: Using ASTQueryTranslatorFactory
+2018-07-10 15:41:40,129 [INFO ] [main] [?:?] (?:?) HV000001: Hibernate Validator 5.3.0.Final
+2018-07-10 15:41:41,187 [INFO ] [main] [?:?] (?:?) Using DataSource [{
+	CreateTime:"2018-07-10 15:41:38",
+	ActiveCount:0,
+	PoolingCount:5,
+	CreateCount:5,
+	DestroyCount:0,
+	CloseCount:1,
+	ConnectCount:1,
+	Connections:[
+		{ID:995531141, ConnectTime:"2018-07-10 15:41:39", UseCount:0, LastActiveTime:"2018-07-10 15:41:39"},
+		{ID:973219190, ConnectTime:"2018-07-10 15:41:39", UseCount:0, LastActiveTime:"2018-07-10 15:41:39"},
+		{ID:767393855, ConnectTime:"2018-07-10 15:41:39", UseCount:0, LastActiveTime:"2018-07-10 15:41:39"},
+		{ID:1044965465, ConnectTime:"2018-07-10 15:41:39", UseCount:0, LastActiveTime:"2018-07-10 15:41:39"},
+		{ID:836621476, ConnectTime:"2018-07-10 15:41:39", UseCount:1, LastActiveTime:"2018-07-10 15:41:39"}
+	]
+}] of Hibernate SessionFactory for HibernateTransactionManager
+2018-07-10 15:41:41,354 [WARN ] [main] [?:?] (?:?) No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/D:/DevSoft/apache-maven-3.3.9/repository/net/sf/ehcache/ehcache/2.10.2/ehcache-2.10.2.jar!/ehcache-failsafe.xml
+2018-07-10 15:41:41,536 [INFO ] [main] [?:?] (?:?) Using regular expression provided through VM argument net.sf.ehcache.pool.sizeof.ignore.pattern for IgnoreSizeOf annotation : ^.*cache\..*IgnoreSizeOf$
+2018-07-10 15:41:41,558 [INFO ] [main] [?:?] (?:?) Detected JVM data model settings of: 64-Bit HotSpot JVM with Compressed OOPs
+2018-07-10 15:41:41,628 [INFO ] [main] [?:?] (?:?) Extracted agent jar to temporary file C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent6146891022666961081.jar
+2018-07-10 15:41:41,628 [INFO ] [main] [?:?] (?:?) Trying to load agent @ C:\Users\80002888\AppData\Local\Temp\ehcache-sizeof-agent6146891022666961081.jar
+2018-07-10 15:41:41,665 [INFO ] [main] [?:?] (?:?) using Agent sizeof engine
+2018-07-10 15:41:42,386 [INFO ] [main] [?:?] (?:?) Closing org.springframework.context.support.ClassPathXmlApplicationContext@123772c4: startup date [Tue Jul 10 15:41:37 CST 2018]; root of context hierarchy
+2018-07-10 15:45:54,421 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 15:46:13,294 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 15:46:37,089 [INFO ] [main] [?:?] (?:?) main方法运行中。。。
+2018-07-10 15:47:18,714 [INFO ] [main] [?:?] (?:?) #################main方法运行#################
+2018-07-10 15:47:35,983 [INFO ] [main] [?:?] (?:?) #################main方法运行#################
+2018-07-10 15:47:44,249 [INFO ] [main] [?:?] (?:?) #################main方法运行#################
+2018-07-10 15:48:04,391 [INFO ] [main] [?:?] (?:?) #################main方法运行#################
+2018-07-10 15:48:51,552 [INFO ] [main] [?:?] (?:?) #################main方法运行#################
+2018-07-10 15:52:04,244 [INFO ] [main] [?:?] (?:?) #################main方法运行#################
+2018-07-10 15:52:14,252 [INFO ] [main] [?:?] (?:?) #################main方法运行#################
+2018-07-10 15:52:22,816 [INFO ] [main] [?:?] (?:?) #################main方法运行#################
